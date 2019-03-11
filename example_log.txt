@@ -1,0 +1,468 @@
+
+Mon Sep 18 15:15:58 PDT 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Tue Sep 26 08:10:54 PDT 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Oct  2 08:09:23 PDT 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Oct  6 07:36:09 PDT 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Oct 13 08:15:02 PDT 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Oct 20 10:32:43 PDT 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Oct 30 10:13:38 CDT 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Nov  6 11:16:32 PST 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Nov 10 19:58:06 PST 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Nov 15 08:12:51 PST 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Tue Nov 21 13:38:57 PST 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Tue Nov 28 10:06:22 PST 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Tue Dec  5 08:57:55 PST 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Tue Dec 12 09:47:19 PST 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Dec 18 09:12:59 PST 2017
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Jan  3 09:09:39 PST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Jan  8 08:42:11 PST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Tue Jan 16 10:52:19 PST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Jan 22 10:05:45 PST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Feb  5 10:43:22 CST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Feb  5 10:44:20 CST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Feb 12 11:08:37 CST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Feb 21 10:07:33 CST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Tue Feb 27 10:59:04 CST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Mar  5 09:41:41 CST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Mar 12 10:19:25 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Mar 16 09:07:24 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Mar 23 08:58:59 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Apr  2 10:13:28 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Apr  9 10:09:30 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Apr 13 09:02:47 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Apr 23 11:15:08 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Apr 27 10:56:42 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri May  4 09:17:41 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri May 11 09:33:45 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri May 18 10:41:24 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri May 25 07:52:50 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Tue May 29 09:38:45 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Jun  6 09:51:17 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Jun 11 10:30:51 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Jun 18 13:05:20 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Jun 25 09:23:57 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Jul  2 13:00:33 CDT 2018
+
+Rebuilding whatis database:
+makewhatis: /usr/local/share/man/man1/README.md: No such file or directory
+
+-- End of weekly output --
+
+Tue Jul 10 12:36:32 EDT 2018
+
+Rebuilding whatis database:
+makewhatis: /usr/local/share/man/man1/README.md: No such file or directory
+
+-- End of weekly output --
+
+Tue Jul 17 09:21:47 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Jul 23 09:08:37 CDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Aug  1 13:04:57 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Aug  6 09:18:10 CEST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Aug 15 11:57:27 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Aug 20 10:08:27 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Aug 27 08:53:58 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Tue Sep  4 08:49:40 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Sep 10 12:32:44 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Sat Sep 15 20:59:30 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Sep 24 10:17:27 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Oct  1 15:08:39 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Oct  8 09:50:03 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Oct 15 12:02:07 EDT 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Nov  5 09:39:29 EST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Nov  5 09:40:19 EST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Nov 14 11:36:21 EST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Nov 16 13:31:31 EST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Nov 26 07:05:08 CST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Dec  5 10:02:58 EST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Dec 12 11:09:28 EST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Dec 19 12:05:37 EST 2018
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Jan  2 09:50:10 EST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Jan  2 09:50:35 EST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Jan 14 10:43:43 EST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Wed Jan 23 13:08:40 EST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Jan 28 09:32:50 EST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Feb  4 15:23:37 CST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Sun Feb 10 17:48:27 CST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Feb 18 09:00:34 CST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Feb 22 08:21:32 CST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Mon Mar  4 10:03:22 CST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+Fri Mar  8 12:40:40 CST 2019
+
+Rebuilding whatis database:
+
+-- End of weekly output --
+
+New entry
+Again
+Interesting
